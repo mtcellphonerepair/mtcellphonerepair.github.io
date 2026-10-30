@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Bolaños;Didier;;;
+FN:Didier Bolaños
+ORG:MT Cellphone Repair
+TITLE:Propietario y técnico
+TEL;TYPE=WORK,VOICE:+17147607413
+EMAIL;TYPE=WORK:mtcelphonerepair@gmail.com
+URL:https://mtcellphonerepair.com
+ADR;TYPE=WORK:;;3132 W Lincoln Ave;Anaheim;CA;92801;USA
+X-SOCIALPROFILE;TYPE=instagram:https://www.instagram.com/mt.celphonerepair
+X-SOCIALPROFILE;TYPE=facebook:https://www.facebook.com/profile.php?id=61566526828065
+X-SOCIALPROFILE;TYPE=tiktok:https://www.tiktok.com/@mtcelphonerepair
+NOTE:Reparación de celulares\, consolas y computadoras. Se habla español.
+END:VCARD
